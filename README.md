@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
