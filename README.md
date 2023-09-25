@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
